@@ -82,7 +82,7 @@ function convertMs(ms) {
 const error = {
   title: 'Error',
   message: 'Please choose a date in the future',
-  backgroundColor: 'red',
+  backgroundColor: '#EF4040',
   position: 'topRight',
   theme: 'dark',
 };
